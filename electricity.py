@@ -8,4 +8,4 @@ else:
 
 bill = units * 5
 
-print("Electricity Bill: ₹", bill)
+print("Electricity Bill:", bill)
